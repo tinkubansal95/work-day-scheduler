@@ -6,8 +6,8 @@ var containerEl = $('.container');
 var todaysDate = moment().format("dddd, MMMM Do YYYY");
 
 // fetch current time
-//var timeNow = moment().format("H");
-var timeNow = 13;
+var timeNow = moment().format("H");
+
 // display current date
 var currentDayEl = $('#currentDay');
 currentDayEl.text(todaysDate);
@@ -38,7 +38,6 @@ function saveItem(event){
 
 // display data stored in local storage
 function displayItem(){
-    
     for(var i=9; i<=17; i++){
         var userData = localStorage.getItem(i);
         $('textarea#'+i).val(userData);
