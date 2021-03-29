@@ -2,7 +2,7 @@
 
 ## Goals of the project :
 
-```To build a daily planner, so that an Employee can add his/her daily events and manage the time effectively```
+```To build a daily planner, so that an Employee can add his/her daily events and manage the time effectively.```
 
 ## Link of the website :
 
