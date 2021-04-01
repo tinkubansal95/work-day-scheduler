@@ -10,4 +10,5 @@
 
 ## Screenshot of the website
 
-![ScreenShot of the Website](assets/ScreenShotOFTheWebsite.png)
+![ScreenShot of the Website](Assets\ScreenShotOFTheWebsite.png)
+![ScreenShot of the Website](Assets/ScreenShotOFTheWebsite.png)
