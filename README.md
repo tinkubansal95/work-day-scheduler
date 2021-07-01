@@ -2,11 +2,11 @@
 
 ## Goals of the project :
 
-```To build a daily planner, so that an Employee can add his/her daily events and manage the time effectively.```
+`To build a daily planner, so that an Employee can add his/her daily events and manage the time effectively.`
 
 ## Link of the website :
 
-```https://tinkubansal95.github.io/work-day-scheduler/```
+https://tinkubansal95.github.io/work-day-scheduler/
 
 ## Screenshot of the website
 
